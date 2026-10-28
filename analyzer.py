@@ -1,0 +1,1 @@
+#The analysis engine - detects warning signs and calculates the risk score.
